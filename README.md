@@ -23,9 +23,7 @@ This is a learning project to:
 - Movie API (like OMDb API)
 - [TanStack Query (coming soon)](https://tanstack.com/query)
 
-## 📸 Preview
 
-> _Add a screenshot or a GIF here if you have one!_
 
 ## 📦 Installation
 
